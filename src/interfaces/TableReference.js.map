@@ -1,0 +1,1 @@
+{"version":3,"file":"TableReference.js","sourceRoot":"","sources":["../../../src/interfaces/TableReference.ts"],"names":["DeepCopyTableReference"],"mappings":"AAUA,gCAAuC,SAAyB;IAE5DA,MAAMA,CAACA;QACHA,KAAKA,EAAEA,SAASA,CAACA,KAAKA;QACtBA,GAAGA,EAAEA,SAASA,CAACA,GAAGA;QAClBA,GAAGA,EAAEA,SAASA,CAACA,GAAGA;KACrBA,CAAAA;AACLA,CAACA;AAPe,8BAAsB,yBAOrC,CAAA"}
