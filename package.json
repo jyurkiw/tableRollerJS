@@ -1,0 +1,25 @@
+{
+  "name": "table-roller-js",
+  "version": "1.0.0",
+  "description": "A robust table-roller. Transpiled JS from table-roller",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "coverage": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyurkiw/tableRollerJS.git"
+  },
+  "author": "jyurkiw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jyurkiw/tableRollerJS.git/issues"
+  },
+  "homepage": "https://github.com/jyurkiw/tableRollerJS.git#readme",
+  "dependencies": {
+    "linq": "^3.2.3"
+  },
+  "devDependencies": {
+  }
+}
